@@ -1,0 +1,9 @@
+We list mitigations added in all Microsoft Office versions.
+
+| Version (and date) | Mitigation | References |
+|--------------------|------------|------------------------------------------|
+| ? |	Protected View | ? |
+| Office 2016 (version ?) |	Flash, Silverlight, and Shockwave controls blocked by default |	[1][1] |
+
+[1]: https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1
+
